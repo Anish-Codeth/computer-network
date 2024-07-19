@@ -1,3 +1,4 @@
 https://www.notion.so/www-google-com-6790edea686e47dbb6649275e18f89ac
 
 // create a state diagram how google works 
+// complete explain what happen when google.com works  
