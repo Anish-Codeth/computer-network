@@ -20,4 +20,6 @@
     - The request will have large payload.
 
     [POST Request]
-4.
+4.**Analyze the POST Request**
+    -***Examine Packet Details:*** Click on the identified POST request packet to examine its details.
+    -***Review the Payload:*** Look at the packet's payload to confirm it contains the data from your uploaded file. You should see the file content within the packet's data section.
