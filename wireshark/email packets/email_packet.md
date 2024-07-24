@@ -14,7 +14,8 @@ To capture SMTP packets using Wireshark, follow these steps:
 
 6. **Analyze the SMTP Packet**: Find and analyze the SMTP packets related to the email.
 
-![Wireshark SMTP Packet Capture](placeholder-for-your-image-url)
+![image](https://github.com/user-attachments/assets/2048adf2-af29-4062-92e3-57b928609d4c)
+
 
 
 
