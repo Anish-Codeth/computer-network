@@ -15,7 +15,9 @@ To capture SMTP packets using Wireshark, follow these steps:
 6. **Analyze the SMTP Packet**: Find and analyze the SMTP packets related to the email.
 
 ![image](https://github.com/user-attachments/assets/2048adf2-af29-4062-92e3-57b928609d4c)
+1. **TCP Connection Establishment**: The client and server establish a TCP connection using a three-way handshake (SYN, SYN-ACK, ACK) at the Transport Layer (Layer 4 of the OSI model).
 
+2. **SMTP Server Greeting**: The SMTP server sends an SMTP 220 response code, indicating it is ready to proceed with communication.
 
 
 
