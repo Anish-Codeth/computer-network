@@ -1,3 +1,7 @@
+To ensure the links are embedded in the text without showing the URLs explicitly, you can use Markdown formatting. Here is the improved Markdown content:
+
+---
+
 # Assignments
 
 ## Assignment 1
@@ -33,11 +37,9 @@
 
 #### [Link to the Code](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.py)
 
-
 #### [Link to the Code using Heap](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstraheap.py)
 
-
 #### [Update of the Variables](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.png)
----
 
+---
 
