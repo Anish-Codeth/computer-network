@@ -36,6 +36,7 @@ To ensure the links are embedded in the text without showing the URLs explicitly
    c. The previous nodes array can be used to reconstruct the shortest path from the starting node to any other node.
 
 [Link to the Code](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.py)
+
 [Link to the Code using Heap](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstraheap.py)
 
 [Update of the Variables](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.png)
