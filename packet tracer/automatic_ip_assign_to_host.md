@@ -2,8 +2,7 @@
 Launch the Cisco Packet Tracer application.
 Create a Network Topology:
 
-Drag and drop network devices such as a router, switch, and PCs onto the workspace.
-
+1. Drag and drop network devices such as a router, switch, and PCs onto the workspace.
 2. Configure the Router as a DHCP Server
 
 
