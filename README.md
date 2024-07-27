@@ -20,7 +20,7 @@
    a. While the priority queue is not empty:
       i. Extract the node with the smallest distance from the priority queue.
       ii. For each neighbor of the extracted node:
-          1. Calculate the new tentative distance from the starting node to this neighbor through the extracted node.
+          1. Calculate the new distance from the starting node to this neighbor through the extracted node.
           2. If this new distance is less than the currently known distance to this neighbor:
              a. Update the neighbor's distance.
              b. Set the previous node of the neighbor to the extracted node.
@@ -32,10 +32,13 @@
    c. The previous nodes array can be used to reconstruct the shortest path from the starting node to any other node.
 
 #### Link to the Code
-()
+(https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.py)
+
+### Link to the Code using Heap 
+(https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstraheap.py)
 
 #### Update of the Variables
-()
+(https://github.com/Anish-Codeth/computer-network/blob/main/shortest/deijkstra/dijkstra.png)
 ---
 
 
