@@ -17,7 +17,7 @@
 - **Client MAC Address:** Apple_8a:f1:31 (68:2f:67:8a:f1:31)  
 - **Host Name:** Sudhins-MBP
 
--[DHCP Discover] (https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Discover.png)
+-[DHCP Discover](https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Discover.png)
 ---
 
 ## Offer
@@ -37,7 +37,7 @@
 - **Your (client) IP Address:** 192.168.0.103  
 - **DHCP Server Identifier:** 192.168.0.1
 
--[DHCP Offer] (https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Offer.png)
+-[DHCP Offer](https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Offer.png)
 ---
 
 ## Request
@@ -56,7 +56,7 @@
 - **Transaction ID:** 0x8cd05dfc  
 - **Client MAC Address:** Apple_8a:f1:31 (68:2f:67:8a:f1:31)
 
--[DHCP Request] (https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Request.png)
+-[DHCP Request](https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Request.png)
 
 ---
 
@@ -78,5 +78,5 @@
 - **DHCP Server Identifier:** 192.168.0.1  
 - **Lease Time:** 2 hours (7200 seconds)
 
-- [DHCP Acknowledge] (https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Acknowledge.png)
+- [DHCP Acknowledge](https://github.com/Anish-Codeth/computer-network/blob/main/wireshark_captures/DHCP%20Acknowledge.png)
 
