@@ -46,7 +46,7 @@
      - For each flight `[u, v, w]` in `flights`, if `dist[u] + w < dist[v]`, update `dist[v]` to `dist[u] + w`.
    - After `n−1` iterations, `dist[dst]` contains the minimum cost to reach `dst` from `src` with at most `k` stops or `-1` if no such path exists.
 
-#### [Link to the Code](https://github.com/Anish-Codeth/computer-network/tree/main/shortest/bellfor.py)
+#### [Link to the Code](https://github.com/Anish-Codeth/computer-network/tree/main/shortest/bellford.py)
 
 
 #### [Update of the Variables](https://github.com/Anish-Codeth/computer-network/blob/main/shortest/bellford/bellford.png)
