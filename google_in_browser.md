@@ -1,5 +1,5 @@
 # www.google.com
-
+# Notion file https://lush-idea-e7b.notion.site/www-google-com-6790edea686e47dbb6649275e18f89ac
 - **DHCP (Dynamic Host Configuration Protocol):**
 It is a network management protocol used to dynamically assign an IP address to any device, or node on a network so it can communicate using IP. DHCP automates and centrally manages these configurations rather than requiring network administrators to manually assign IP addresses to all network devices. DHCP can be implemented on small local networks, as well as large enterprise networks.
 - **WEB SERVER**
